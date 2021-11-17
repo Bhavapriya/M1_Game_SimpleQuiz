@@ -1,1 +1,1 @@
-# M1_ProjectType_goal
+# M1_GAME_SIMPLEQUIZ
