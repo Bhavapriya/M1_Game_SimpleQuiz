@@ -1,0 +1,23 @@
+4W's:
+
+WHO:
+
+Anyone can play this quiz game.
+
+WHEN:
+
+Whenever the person wants to test/improve a specific area of knowledge.
+
+WHY:
+
+Studying is more efficient after a quiz and for beginners it is very useful.
+
+WHAT:
+
+A quick and informal assessment of person knowledge. This Simple Quiz Game Mini Project in C designed as a simple console application.
+
+1H:
+
+HOW:
+
+Implemntation of this Simple Quiz program is done is using C language and it uses loops ,function call and other functions of C TOOLS: Visual Studio Code and some extensions C/C++. when the user opens the Quiz platform , the questions will be displayed with respect to its Options. Then the user should enter their opinion/answer and save the answer. Then your final result will be displayed.

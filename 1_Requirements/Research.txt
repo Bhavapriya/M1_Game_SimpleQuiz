@@ -1,0 +1,3 @@
+RESEARCH:
+
+This Simple Quiz Game Mini Project in C designed as a simple console application. In this project, a number of questions are asked, and the user is awarded cash prize for each correct answer given. Companies and education usually want to test/improve a specific area of knowledge rather than general knowledge. In this way, quizzes are an engaging method for companies and schools to measure growth in knowledge, abilities, and/or skills.

@@ -1,0 +1,3 @@
+INTRODUCTION:
+
+A quiz can be defined as a game or brain teaser to test knowledge. It can contain an element of competition when participants play against each other to get the highest score, which makes helps participants become more engaged. Quizzes help person identify what they know and what they don't know. so they have a better idea of how well they are grasping the material, hopefully motivating them to study more and helping them allocate their study time effectively by focusing on the information that still needs more practice. This topic was chosen because it helps me to understand tha C programming.
