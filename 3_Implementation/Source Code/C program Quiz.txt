@@ -7,8 +7,7 @@ main()
  { 
   char quest [5][100];
   char optionl [3][20],option2 [3][20], option3 [3][20],option4 [3][20], option5 [3][20]; 
-  int response[5], correct_ans[5], option,i, marks;  
-  clrscr();  
+  int response[5], correct_ans[5], option,i, marks;    
   strcpy(quest[0], "Which is the capital of India? ");  
   strcpy (optionl [0],"1. Mumbai");  
   strcpy(optionl[1] ,"2. New Delhi");  
